@@ -18,7 +18,7 @@ Este exercício foi proposto que implementassemos as funcionalidades para que os
   - Insert deve retornar 422 (unprocessableEntity) quando o administrador estiver logado e inserir uma data no passado ou presente, somente aceita datas futuras;
   - FindAll deve retornar uma lista paginavel de todos os dados;
 
-Neste sistema, somente as rotas de leitura (GET) de eventos e cidades são públicas. Usuários CLIENT podem também inserir novos eventos. Os demais acessos são permitidos apenas a usuários ADMIN
+Neste sistema, somente as rotas de leitura de eventos e cidades são públicas. Usuários CLIENT podem também inserir novos eventos. Os demais acessos são permitidos apenas a usuários ADMIN
 
 ## Modelo Conceitual
 Este é um sistema de eventos e cidades com uma relação N-1 entre eles
