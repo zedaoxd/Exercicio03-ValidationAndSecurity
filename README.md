@@ -3,7 +3,7 @@
 ## Sobre o projeto
 Este é o terceiro desafio do **Bootcamp Spring** da [DevSuperior](https://devsuperior.com.br/cursos) cuja aulas estão sendo ministradas pelo professor [Nelio Alves](https://www.linkedin.com/in/nelio-alves/?originalSubdomain=br).
 
-Este exercício foi proposto que implementamos as funcionalidades para que os testes de validação e de segurança ao nível de rotas passasem, entre os desafios estava os seguintes testes:
+Este exercício foi proposto que implementassemos as funcionalidades para que os testes de validação e de segurança ao nível de rotas passasem, entre os desafios estava os seguintes testes:
 
 - Testes no end-point da cidade:
   - Insert deve retornar 401 (unauthorized) quando não tiver usuário logado;
